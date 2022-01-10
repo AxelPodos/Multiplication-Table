@@ -1,0 +1,11 @@
+1 - Creacion de archivo .gitIgnore: archivos y directorios que se ignorarán en git
+
+2 - En este caso, ignoramos los productos de la app en salida, pero creamos un .md comentando que tiene la carpeta
+
+3 - En general, lo que se ignora son los node_modules. No tiene sentido subirlos a GIT
+
+4 - git init: comando para inicializar 
+
+5 - git add: preparar archivos
+
+6 - git commit: tomar la fotografia con su descripcion
