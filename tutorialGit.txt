@@ -6,6 +6,13 @@
 
 4 - git init: comando para inicializar 
 
-5 - git add: preparar archivos
+5 - git add . : preparar archivos
 
-6 - git commit: tomar la fotografia con su descripcion
+6 - git commit -m : tomar la fotografia con su descripcion
+
+7 - Creamos el repo en gitHub donde se guardará el proyecto
+
+8 - Comandos para subir proyecto remoto
+     - git remote add origin git@github.com:AxelPodos/TABLA-NODE.git
+     - git branch -M main
+     - git push -u origin main
