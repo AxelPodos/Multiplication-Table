@@ -16,3 +16,5 @@
      - git remote add origin git@github.com:AxelPodos/TABLA-NODE.git
      - git branch -M main
      - git push -u origin main
+
+9 - Sugerencia. Crear archivo README.md en la carpeta principal del proyecto apra descripcion de la app     
