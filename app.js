@@ -7,7 +7,8 @@ const argv = require('./config/yargs');
 // Clear es para limpiar la consola cada vez que se ejecuta
 console.clear()
 
-console.log(argv)
+// Log comentado. Muestra los argv de la app
+//console.log(argv)
 
 crearArchivo(argv.b, argv.l, argv.h)
     .then( nombreArchivo => console.log((nombreArchivo.green)))
